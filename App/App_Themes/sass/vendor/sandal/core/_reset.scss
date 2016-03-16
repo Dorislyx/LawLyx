@@ -9,8 +9,8 @@
 // http://necolas.github.io/normalize.css/
 //-----------------------------------------------------
 
-// 1. Prevent mobile text size adjust after orientation change, without disabling user zoom.
-// 2. Remove the gray background color from tap, default value is inherit
+// 1. Prevent mobile text size adjust after orientation change, without disabling user zoom. 防止移动文本大小调整方向改变后,没有禁用用户放大。
+// 2. Remove the gray background color from tap, default value is inherit  从利用删除灰色的背景颜色,默认值是继承
 html {
     -ms-text-size-adjust: 100%; // 1
     -webkit-text-size-adjust: 100%; // 1
@@ -19,7 +19,7 @@ html {
     height: 100%;
 }
 
-// 1. Remove default margin
+// 1. Remove default margin  
 body {
     margin: 0; // 1
     font-size: $fontSize;

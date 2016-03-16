@@ -12,7 +12,7 @@
 // 既定义了mixin也定义了%，根据需求使用@include或@extend调用
 //-----------------------------------------------------
 
-// Center-align a block level element
+// Center-align a block level element  居中对齐一个块级元素
 @mixin center-block($extend: true) {
     @if $extend {
         @extend %center-block;
@@ -27,7 +27,7 @@
     @include center-block(false);
 }
 
-// clearfix
+// clearfix 清浮动
 @mixin clearfix($extend: true) {
     @if $extend {
         @extend %clearfix;
