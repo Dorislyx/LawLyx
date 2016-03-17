@@ -5,9 +5,11 @@
 
 一：使用sass预编译器处理方式编写css
 
-  @一些自己学习sass的资料
+@一些自己学习sass的资料
+
    http://www.ruanyifeng.com/blog/2012/06/sass.html
-   业界大牛 阮一峰 的博客
+    业界大牛 阮一峰 的博客
+  
    
    http://www.w3cplus.com/sassguide/
    国内比较活跃的IT网站，有很多不错的教程
